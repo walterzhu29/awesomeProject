@@ -1,7 +1,7 @@
 package main
 
 import (
-	"awesomeProject/grpc_stream/proto"
+	"awesomeProject/grpc_test/proto"
 	"fmt"
 	"net"
 	"sync"
